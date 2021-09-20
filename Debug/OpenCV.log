@@ -1,0 +1,23 @@
+﻿  b_f.cpp
+  5.cpp
+D:\WorkSpace\OpenCV\repos\OpenCV\OpenCV\b_f.cpp(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  color transfer.cpp
+C:\Users\허성민\Desktop\5.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  morphology.cpp
+D:\WorkSpace\OpenCV\repos\OpenCV\OpenCV\color transfer.cpp(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  seam carving.cpp
+D:\WorkSpace\OpenCV\repos\OpenCV\OpenCV\morphology.cpp(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  seam carving_prototype.cpp
+D:\WorkSpace\OpenCV\repos\OpenCV\OpenCV\seam carving.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  test.cpp
+D:\WorkSpace\OpenCV\repos\OpenCV\OpenCV\seam carving_prototype.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  wooks.cpp
+D:\WorkSpace\OpenCV\repos\OpenCV\OpenCV\test.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  소스.cpp
+D:\WorkSpace\OpenCV\repos\OpenCV\OpenCV\wooks.cpp(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  소스1.cpp
+D:\WorkSpace\OpenCV\repos\OpenCV\OpenCV\소스.cpp(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  소스2.cpp
+D:\WorkSpace\OpenCV\repos\OpenCV\OpenCV\소스1.cpp(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  코드를 생성하고 있습니다...
+D:\WorkSpace\OpenCV\repos\OpenCV\OpenCV\소스2.cpp(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
