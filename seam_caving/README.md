@@ -2,8 +2,8 @@ SeamCaving
 개인적으로 한 문장으로 말하자면 내용 인식 이미지 변환 알고리즘 정도로 말할수 있다.
 
 <p float="left">
-<img src="/seam_caving/seam_result.jpg" width="30%" height="30%" title="input image" alt="input image"></img>
-<img src="/seam_caving/image/가로변환.jpg" width="30%" height="30%" title="가로변환" alt="가로변환"></img>
+<img src="/seam_caving/seam_result.jpg" width="30%" height="30%" title="input image" alt="input image"></img> ->
+<img src="/seam_caving/image/가로변환.jpg" width="20%" height="20%" title="가로변환" alt="가로변환"></img>
 <img src="/seam_caving/image/세로변환.jpg" width="30%" height="30%" title="세로변환" alt="세로변환"></img><br/>
 </p>
 
