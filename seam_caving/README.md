@@ -1,7 +1,7 @@
 SeamCaving
 개인적으로 한 문장으로 말하자면 내용 인식 이미지 변환 알고리즘 정도로 말할수 있다.
 
-(이미지)
+<img src="/seam_caving/seam_result.jpg" width="450px" height="300px" title="input image" alt="input image"></img><br/>
 
 
 
