@@ -1,7 +1,7 @@
 SeamCaving
 
 <p float="left">
-<img src="/seam_caving/image/use image/input.jpg" width="30%" height="30%" title="input image" alt="input image"></img>  --->  
+<img src="/seam_caving/image/use image/input.jpg" width="35%" height="35%" title="input image" alt="input image"></img>  --->  
 <img src="/seam_caving/image/use image/가로변환.jpg" width="20%" height="20%" title="가로변환" alt="가로변환"></img>
 <img src="/seam_caving/image/use image/세로변환.jpg" width="30%" height="30%" title="세로변환" alt="세로변환"></img><br/>
 </p>
@@ -21,8 +21,8 @@ SeamCaving
 알고리즘은 적용한 결과는 다음과 같다.
 
 <p float="left">
-<img src="/seam_caving/image/use image/input.jpg" width="30%" height="30%" title="input image" alt="input image"></img>  --->  
-<img src="/seam_caving/image/use image/seamcarving decrease.JPG" width="35%" height="35%" title="가로변환" alt="가로변환"></img>
+<img src="/seam_caving/image/use image/input.jpg" width="40%" height="40%" title="input image" alt="input image"></img>  --->  
+<img src="/seam_caving/image/use image/seamcarving decrease.JPG" width="30%" height="30%" title="가로변환" alt="가로변환"></img>
 <img src="/seam_caving/image/use image/seamcarving increase.JPG" width="30%" height="30%" title="세로변환" alt="세로변환"></img><br/>
 </p>
 
