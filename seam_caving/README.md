@@ -12,5 +12,5 @@ SeamCaving
 
 ...작성중
 
-Reference
+Reference   
 [Shai Avidan, Ariel Shamir, "Seam Carving for Content-Aware Image Resizing", ACM Transactions on Graphics, Volume 26, Number 3, SIGGRAPH 2007](https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf)
