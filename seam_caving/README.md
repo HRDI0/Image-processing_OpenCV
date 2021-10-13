@@ -22,8 +22,8 @@ SeamCaving
 
 <p float="left">
 <img src="/seam_caving/image/use image/input.jpg" width="30%" height="30%" title="input image" alt="input image"></img>  --->  
-<img src="/seam_caving/image/use image/seamcarving increase.JPG" width="35%" height="35%" title="가로변환" alt="가로변환"></img>
-<img src="/seam_caving/image/use image/seamcarving decrease.JPG" width="35%" height="35%" title="세로변환" alt="세로변환"></img><br/>
+<img src="/seam_caving/image/use image/seamcarving decrease.JPG" width="35%" height="35%" title="가로변환" alt="가로변환"></img>
+<img src="/seam_caving/image/use image/seamcarving increase.JPG" width="30%" height="30%" title="세로변환" alt="세로변환"></img><br/>
 </p>
 
 ...작성중
