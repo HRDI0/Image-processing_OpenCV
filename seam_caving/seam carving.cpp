@@ -102,7 +102,7 @@ void find_add_seam_line(Mat& e_map, vector<int>& seam_line) {  //에너지 맵 구성 
 				pixel_x = i;
 			}
 		}
-		i += 30;
+		/*i += 30;*/
 	}
 	pre_seam = pixel_x;
 
