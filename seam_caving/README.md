@@ -61,7 +61,7 @@ Seam Caving 알고리즘을 이용해 몇가지 기능을 구현할 수 있다.
 <img src="/seam_caving/image/remove object/remove object2.png" width="30%" height="30%" title="remove object2" alt="remove object2"></img><br/>
 </p>
 
-...작성중
+----------------------------------------------------------------------
 
 Reference   
 [Shai Avidan, Ariel Shamir, "Seam Carving for Content-Aware Image Resizing", ACM Transactions on Graphics, Volume 26, Number 3, SIGGRAPH 2007](https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf)
