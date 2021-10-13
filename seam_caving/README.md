@@ -1,4 +1,4 @@
-#SeamCaving
+# SeamCaving
 
 <p float="left">
 <img src="/seam_caving/image/use image/input.jpg" width="35%" height="35%" title="input image" alt="input image"></img>  --->  
