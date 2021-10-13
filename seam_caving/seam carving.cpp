@@ -167,7 +167,7 @@ void seam_add_carving(Mat& input) {				//seam add carving
 int main() {
 
 	Mat input, origin;
-	input = imread("seam_caving\\seam_result.jpg");
+	input = imread("D:/WorkSpace/OpenCV/repos/OpenCV/OpenCV/seam_caving/seam_result.jpg");
 	if (!input.data) { cout << "Image Not Found" << endl; return -1; }
 
 	namedWindow("resize_seam_carving",WINDOW_NORMAL);
