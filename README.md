@@ -7,7 +7,7 @@ When you access the link, there is a description of each project.
     
 2. *[histogram is Various histogram extraction examples, some image](https://github.com/HRDI0/OpenCV/tree/main/histogram)
 
-3. **[mophlogy is A program that binarizes images and extracts characters through the roi process](https://github.com/HRDI0/OpenCV/tree/main/mophology)
+3. **[mophology is A program that binarizes images and extracts characters through the mophology process](https://github.com/HRDI0/OpenCV/tree/main/mophology)
 
 4. **[color transfer is Combining two images of different colors to form a single image ](https://github.com/HRDI0/OpenCV/tree/main/color_transfer)
 
