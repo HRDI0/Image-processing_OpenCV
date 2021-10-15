@@ -1,13 +1,30 @@
 d:\workspace\opencv\repos\opencv\opencv\x64\release\vc142.pdb
+d:\workspace\opencv\repos\opencv\opencv\x64\release\shrink_image.obj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\seam_carve.obj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\remove_seam.obj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\main.obj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\energy_val.obj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\morphology.obj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\color transfer.obj
 d:\workspace\opencv\repos\opencv\opencv\x64\release\seam carving.obj
 d:\workspace\opencv\repos\opencv\x64\release\opencv.exe
+d:\workspace\opencv\repos\opencv\opencv\x64\release\opencv.iobj
 d:\workspace\opencv\repos\opencv\x64\release\opencv.pdb
 d:\workspace\opencv\repos\opencv\x64\release\opencv.ipdb
 d:\workspace\opencv\repos\opencv\x64\release\opencv.iobj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\5.obj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\b_f.obj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\find_seam.obj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\test.obj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\소스.obj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\소스1.obj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\소스2.obj
+d:\workspace\opencv\repos\opencv\opencv\x64\release\opencv.ipdb
 d:\workspace\opencv\repos\opencv\opencv\x64\release\opencv.tlog\cl.command.1.tlog
 d:\workspace\opencv\repos\opencv\opencv\x64\release\opencv.tlog\cl.read.1.tlog
 d:\workspace\opencv\repos\opencv\opencv\x64\release\opencv.tlog\cl.write.1.tlog
 d:\workspace\opencv\repos\opencv\opencv\x64\release\opencv.tlog\link.command.1.tlog
+d:\workspace\opencv\repos\opencv\opencv\x64\release\opencv.tlog\link.delete.1.tlog
 d:\workspace\opencv\repos\opencv\opencv\x64\release\opencv.tlog\link.read.1.tlog
 d:\workspace\opencv\repos\opencv\opencv\x64\release\opencv.tlog\link.write.1.tlog
 d:\workspace\opencv\repos\opencv\opencv\x64\release\opencv.tlog\opencv.write.1u.tlog

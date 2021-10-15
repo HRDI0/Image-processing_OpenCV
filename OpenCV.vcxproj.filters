@@ -15,28 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="histogram_equilibration.cpp">
+    <ClCompile Include="seam_caving\seam carving.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="cv_study.cpp">
+    <ClCompile Include="mophology\morphology.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="image_croping.cpp">
+    <ClCompile Include="histogram\histogram.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="histogram.cpp">
+    <ClCompile Include="histogram\histogram_equilibration.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="gradient.cpp">
+    <ClCompile Include="cv_base\cv_study.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="morphology.cpp">
+    <ClCompile Include="cv_base\gradient.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="color transfer.cpp">
+    <ClCompile Include="cv_base\image_croping.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="seam carving.cpp">
+    <ClCompile Include="color_transfer\color transfer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

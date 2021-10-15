@@ -7,7 +7,7 @@ using namespace cv;
 
 int main() {
 
-	Mat binary_im = imread("im.jpg",IMREAD_GRAYSCALE);		//원본 그레이스케일 이미지
+	Mat binary_im = imread("D:/WorkSpace/OpenCV/repos/OpenCV/OpenCV/mophology/im.jpg",IMREAD_GRAYSCALE);		//원본 그레이스케일 이미지
 	if (!binary_im.data) {
 		cout << "Not Found File" << endl;
 		return -1;
