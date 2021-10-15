@@ -1,6 +1,6 @@
 # Mophology
 
-Project Goal : 정해진 텍스트 input image의 굵기가 다른 텍스트들을 모두 동일한 최소 굵기로 만든다.
+Project Goal : input image의 굵기가 다른 텍스트들을 모두 동일한 최소 굵기로 만들고 주변 그림들을 최대한 제거한다.
 
 
 ### input image :
