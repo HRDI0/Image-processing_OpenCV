@@ -1,4 +1,4 @@
-__# SeamCaving__
+# __SeamCaving__
 
 ## 개요
 
