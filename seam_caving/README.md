@@ -1,12 +1,12 @@
-# SeamCaving
+__# SeamCaving__
+
+## 개요
 
 <p float="left">
 <img src="/seam_caving/image/use image/input.jpg" width="35%" height="35%" title="input image" alt="input image"></img>  --->  
 <img src="/seam_caving/image/use image/가로변환.jpg" width="20%" height="20%" title="가로변환" alt="가로변환"></img>
 <img src="/seam_caving/image/use image/세로변환.jpg" width="30%" height="30%" title="세로변환" alt="세로변환"></img><br/>
 </p>
-
-## 개요
 
 이미지의 크기를 변환하면 이미지가 왜곡되는 현상 발생   
    
